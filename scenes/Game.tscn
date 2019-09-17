@@ -5,10 +5,8 @@
 [node name="Game" type="Node"]
 
 [node name="ColorRect" type="ColorRect" parent="."]
-margin_left = 4.0
-margin_top = 4.0
-margin_right = 1077.0
-margin_bottom = 1917.0
+margin_right = 1080.0
+margin_bottom = 1920.0
 color = Color( 0.823529, 0.815686, 0.482353, 1 )
 
 [node name="Sprite" type="Sprite" parent="."]
